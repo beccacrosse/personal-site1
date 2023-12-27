@@ -1128,6 +1128,10 @@ main {
   margin-left: 10px;
 }
 
+.project-subtitle {
+  color: #800000;
+}
+
 .project-title {
   color: var(--white-2);
   font-size: var(--fs-5);

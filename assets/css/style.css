@@ -922,6 +922,7 @@ main {
  */
 
 .skills-title {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -958,6 +959,13 @@ main {
   background: var(--text-gradient-yellow);
   height: 100%;
   border-radius: inherit;
+}
+
+.awards-title {
+  color: var(--vegas-gold);
+  font-weight: var(--fw-400);
+  line-height: 1.6;
+  text-transform: capitalize;
 }
 
 
@@ -1126,10 +1134,6 @@ main {
 .project-title,
 .project-category {
   margin-left: 10px;
-}
-
-.project-subtitle {
-  color: #800000;
 }
 
 .project-title {
